@@ -68,7 +68,7 @@
     "NUMERO_OWNER": {
       "description": "Your number, don't put '+' and include your area code (example for Togo '228')",
       "required": false,
-      "value": "22891733300"
+      "value": "18295518390"
     },
     "WARN_COUNT": {
       "description": "this is the limit of warnings for warning commands",
